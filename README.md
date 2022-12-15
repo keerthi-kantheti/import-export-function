@@ -9,3 +9,4 @@ Import the function in the `importFunction.js` file.
 <b>Use Common JS module syntax</b>.
 # import-export-function
 # import-export-function
+# import-export-function
